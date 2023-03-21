@@ -1,2 +1,2 @@
-# logistics_route_planning_nz
 Apply Trade and Travel Data into Logistics Route Planning for New Zealand
+Abstract: This study aimed to explore logistics routes planning between New Zealand and other trade partner countries with reference to trade data, travel data as well as city prosperity information.  K-Means clustering tech has been employed to group trade partners so as to identify most important shipment routes between New Zealand and other trade partners. Findings from this study indicated the most valuable routes should set a destination to China, Australia, South-east Asia, West Europe, and North America. 
